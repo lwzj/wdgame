@@ -1,0 +1,6 @@
+{
+	"id": "INTEGER", //    //必填
+"message": "VARCHAR", //公告消息    //选填
+"time": "INTEGER", //分钟  轮询的时间    //选填
+
+}

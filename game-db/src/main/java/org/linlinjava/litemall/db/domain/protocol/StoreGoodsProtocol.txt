@@ -1,0 +1,18 @@
+{
+	"id": "INTEGER", //    //必填
+"name": "VARCHAR", //    //选填
+"barcode": "VARCHAR", //    //选填
+"forSale": "INTEGER", //    //选填
+"showPos": "INTEGER", //    //选填
+"rpos": "INTEGER", //    //选填
+"saleQuota": "INTEGER", //    //选填
+"recommend": "INTEGER", //    //选填
+"coin": "INTEGER", //    //选填
+"discount": "INTEGER", //    //选填
+"type": "INTEGER", //    //选填
+"quotaLimit": "INTEGER", //    //选填
+"mustVip": "INTEGER", //    //选填
+"isGift": "INTEGER", //    //选填
+"followPetType": "INTEGER", //    //选填
+
+}

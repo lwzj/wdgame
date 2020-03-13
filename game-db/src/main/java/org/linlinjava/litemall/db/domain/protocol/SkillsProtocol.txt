@@ -1,0 +1,12 @@
+{
+	"id": "INTEGER", //    //必填
+"skillIdHex": "VARCHAR", //    //必填
+"skillName": "VARCHAR", //    //必填
+"skillReqMenpai": "INTEGER", //    //必填
+"skillType": "INTEGER", //    //必填
+"skillTypeLevel": "INTEGER", //    //必填
+"skillMagic": "INTEGER", //    //必填
+"skillReqLevel": "INTEGER", //学习 发技能所需等级    //必填
+"skillContext": "VARCHAR", //    //必填
+
+}

@@ -1,0 +1,6 @@
+{
+	"id": "INTEGER", //    //必填
+"name": "VARCHAR", //    //必填
+"index": "INTEGER", //    //必填
+
+}

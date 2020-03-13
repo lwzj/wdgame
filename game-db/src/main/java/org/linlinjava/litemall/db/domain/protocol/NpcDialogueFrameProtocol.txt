@@ -1,0 +1,18 @@
+{
+	"id": "INTEGER", //    //必填
+"portrait": "INTEGER", //    //选填
+"picNo": "INTEGER", //    //选填
+"content": "VARCHAR", //    //选填
+"secretKey": "VARCHAR", //    //选填
+"name": "VARCHAR", //    //选填
+"attrib": "INTEGER", //    //选填
+"updateTimes": "TIMESTAMP", //更新时间    //选填
+"idname": "INTEGER", //    //选填
+"next": "VARCHAR", //    //选填
+"currentTask": "VARCHAR", //    //选填
+"uncontent": "VARCHAR", //    //选填
+"zhuangbei": "VARCHAR", //    //选填
+"jingyan": "INTEGER", //    //选填
+"money": "INTEGER", //    //选填
+
+}

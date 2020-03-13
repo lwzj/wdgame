@@ -1,0 +1,10 @@
+{
+	"id": "INTEGER", //    //必填
+"pid": "VARCHAR", //    //必填
+"rid": "INTEGER", //    //必填
+"skillName": "VARCHAR", //    //必填
+"skillJieshao": "VARCHAR", //    //必填
+"skillDqti": "VARCHAR", //    //必填
+"skillXck": "VARCHAR", //    //必填
+
+}

@@ -1,0 +1,8 @@
+{
+	"id": "INTEGER", //    //必填
+"no": "INTEGER", //    //选填
+"name": "VARCHAR", //    //选填
+"desc": "VARCHAR", //    //选填
+"level": "INTEGER", //    //选填
+
+}

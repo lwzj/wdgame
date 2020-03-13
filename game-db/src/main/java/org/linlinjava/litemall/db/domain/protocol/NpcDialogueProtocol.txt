@@ -1,0 +1,13 @@
+{
+	"id": "INTEGER", //    //必填
+"name": "VARCHAR", //    //选填
+"portranit": "INTEGER", //    //选填
+"picNo": "INTEGER", //    //选填
+"content": "VARCHAR", //    //选填
+"isconmlete": "INTEGER", //    //选填
+"isincombat": "INTEGER", //    //选填
+"palytime": "INTEGER", //    //选填
+"taskType": "VARCHAR", //    //选填
+"idname": "VARCHAR", //    //选填
+
+}

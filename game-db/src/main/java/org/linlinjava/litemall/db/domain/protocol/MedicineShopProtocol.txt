@@ -1,0 +1,11 @@
+{
+	"id": "INTEGER", //    //必填
+"goodsNo": "INTEGER", //    //选填
+"payType": "INTEGER", //    //选填
+"name": "VARCHAR", //    //选填
+"value": "INTEGER", //    //选填
+"level": "INTEGER", //    //选填
+"type": "INTEGER", //    //选填
+"itemcount": "INTEGER", //    //选填
+
+}

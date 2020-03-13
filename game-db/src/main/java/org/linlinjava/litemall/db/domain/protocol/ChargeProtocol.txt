@@ -1,0 +1,9 @@
+{
+	"id": "INTEGER", //    //必填
+"accountname": "VARCHAR", //    //必填
+"coin": "INTEGER", //    //必填
+"state": "INTEGER", //0:已充值未领取 1:已充值已领取    //必填
+"money": "INTEGER", //    //选填
+"code": "VARCHAR", //    //选填
+
+}

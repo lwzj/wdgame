@@ -1,0 +1,9 @@
+{
+	"id": "INTEGER", //    //必填
+"menpai": "INTEGER", //    //选填
+"name": "VARCHAR", //    //选填
+"accountId": "INTEGER", //    //选填
+"gid": "VARCHAR", //    //选填
+"data": "LONGVARCHAR", //    //选填
+
+}

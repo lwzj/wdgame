@@ -1,0 +1,17 @@
+{
+	"id": "INTEGER", //    //必填
+"attrib": "INTEGER", //    //必填
+"amount": "INTEGER", //佩戴位置    //必填
+"type": "INTEGER", //外观    //必填
+"str": "VARCHAR", //装备名字    //必填
+"quality": "VARCHAR", //颜色    //必填
+"master": "INTEGER", //佩戴限制    //必填
+"metal": "INTEGER", //金木水火土    //必填
+"mana": "INTEGER", //伤害    //选填
+"accurate": "INTEGER", //伤害    //选填
+"def": "INTEGER", //气血    //选填
+"dex": "INTEGER", //法力    //选填
+"wiz": "INTEGER", //防御    //选填
+"parry": "INTEGER", //速度    //选填
+
+}

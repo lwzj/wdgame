@@ -1,0 +1,16 @@
+{
+	"id": "INTEGER", //    //必填
+"index": "INTEGER", //对应图鉴的位置    //选填
+"levelReq": "INTEGER", //携带等级    //选填
+"life": "INTEGER", //血气成长    //选填
+"mana": "INTEGER", //法力成长    //选填
+"speed": "INTEGER", //速度成长    //选填
+"phyAttack": "INTEGER", //物攻成长    //选填
+"magAttack": "INTEGER", //法功成长    //选填
+"polar": "VARCHAR", //金木水火土    //选填
+"skiils": "VARCHAR", //拥有天生技能    //选填
+"zoon": "VARCHAR", //所在地图    //选填
+"icon": "INTEGER", //外观    //选填
+"name": "VARCHAR", //名字    //选填
+
+}

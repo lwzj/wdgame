@@ -1,0 +1,12 @@
+{
+	"id": "INTEGER", //    //必填
+"quality": "VARCHAR", //    //选填
+"value": "INTEGER", //    //选填
+"type": "INTEGER", //    //选填
+"name": "VARCHAR", //    //选填
+"totalScore": "INTEGER", //    //选填
+"recognizeRecognized": "INTEGER", //    //选填
+"rebuildLevel": "INTEGER", //    //选填
+"silverCoin": "INTEGER", //灵气    //选填
+
+}

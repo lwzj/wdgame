@@ -1,0 +1,9 @@
+{
+	"id": "INTEGER", //    //必填
+"type": "INTEGER", //    //必填
+"name": "VARCHAR", //    //必填
+"quality": "INTEGER", //    //必填
+"money": "INTEGER", //    //必填
+"polar": "INTEGER", //    //必填
+
+}

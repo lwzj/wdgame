@@ -1,0 +1,13 @@
+{
+	"id": "INTEGER", //    //必填
+"alias": "VARCHAR", //组合名字带日期    //必填
+"fasionType": "VARCHAR", //身上显示    //选填
+"str": "VARCHAR", //名字    //必填
+"type": "VARCHAR", //穿戴栏显示    //选填
+"foodNum": "INTEGER", //    //选填
+"goodsPrice": "INTEGER", //价格    //选填
+"sex": "INTEGER", //男女0男1女2不限制    //必填
+"position": "INTEGER", //背包位置    //必填
+"category": "INTEGER", //部位  外观特效跟宠物对应123    //选填
+
+}

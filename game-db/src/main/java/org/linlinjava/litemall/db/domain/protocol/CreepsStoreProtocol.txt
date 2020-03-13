@@ -1,0 +1,6 @@
+{
+	"id": "INTEGER", //    //必填
+"name": "VARCHAR", //    //选填
+"price": "INTEGER", //    //选填
+
+}

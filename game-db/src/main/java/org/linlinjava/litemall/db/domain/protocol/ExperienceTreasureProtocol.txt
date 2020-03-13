@@ -1,0 +1,5 @@
+{
+	"attrib": "INTEGER", //    //必填
+"maxLevel": "INTEGER", //    //必填
+
+}

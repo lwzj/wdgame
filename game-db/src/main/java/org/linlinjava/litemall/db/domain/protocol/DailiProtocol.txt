@@ -1,0 +1,8 @@
+{
+	"id": "INTEGER", //    //必填
+"account": "VARCHAR", //    //必填
+"passwd": "VARCHAR", //    //必填
+"code": "VARCHAR", //    //必填
+"token": "VARCHAR", //    //选填
+
+}

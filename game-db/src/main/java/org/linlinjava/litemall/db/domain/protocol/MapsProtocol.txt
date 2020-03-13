@@ -1,0 +1,10 @@
+{
+	"id": "INTEGER", //    //必填
+"name": "VARCHAR", //    //必填
+"type": "INTEGER", //    //必填
+"map": "INTEGER", //    //必填
+"dir": "REAL", //    //必填
+"x": "REAL", //    //必填
+"y": "REAL", //    //必填
+
+}

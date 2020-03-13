@@ -1,0 +1,14 @@
+{
+	"id": "INTEGER", //    //必填
+"taskType": "VARCHAR", //    //选填
+"taskDesc": "VARCHAR", //    //选填
+"taskPrompt": "VARCHAR", //    //选填
+"refresh": "INTEGER", //    //选填
+"taskEndTime": "INTEGER", //    //选填
+"attrib": "INTEGER", //    //选填
+"reward": "VARCHAR", //    //选填
+"showName": "VARCHAR", //    //选填
+"tasktaskExtraPara": "VARCHAR", //    //选填
+"tasktaskState": "INTEGER", //    //选填
+
+}

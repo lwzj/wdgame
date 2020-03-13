@@ -1,0 +1,11 @@
+{
+	"id": "INTEGER", //    //必填
+"pname": "VARCHAR", //    //选填
+"cname": "VARCHAR", //    //选填
+"attrib": "VARCHAR", //    //选填
+"icon": "INTEGER", //    //选填
+"str": "VARCHAR", //    //选填
+"price": "INTEGER", //    //选填
+"compose": "VARCHAR", //    //选填
+
+}

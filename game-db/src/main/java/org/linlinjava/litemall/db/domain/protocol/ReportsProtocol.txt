@@ -1,0 +1,7 @@
+{
+	"id": "INTEGER", //    //必填
+"zhanghao": "VARCHAR", //    //必填
+"yuanbaoshu": "INTEGER", //    //必填
+"shifouchongzhi": "VARCHAR", //    //必填
+
+}

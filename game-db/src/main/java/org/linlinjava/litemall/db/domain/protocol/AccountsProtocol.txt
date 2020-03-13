@@ -1,0 +1,13 @@
+{
+	"id": "INTEGER", //    //必填
+"name": "VARCHAR", //    //必填
+"keyword": "VARCHAR", //    //必填
+"password": "VARCHAR", //    //必填
+"token": "VARCHAR", //    //选填
+"chongzhijifen": "INTEGER", //    //选填
+"chongzhiyuanbao": "INTEGER", //    //选填
+"yaoqingma": "VARCHAR", //    //选填
+"block": "INTEGER", //0:正常 1:封号    //选填
+"code": "VARCHAR", //    //选填
+
+}

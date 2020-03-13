@@ -1,0 +1,13 @@
+{
+	"id": "INTEGER", //    //必填
+"ownerid": "VARCHAR", //    //必填
+"skllCwid": "VARCHAR", //    //必填
+"skillIdHex": "VARCHAR", //    //必填
+"skillName": "VARCHAR", //    //必填
+"skillReqMenpai": "INTEGER", //    //必填
+"skillLevel": "INTEGER", //    //必填
+"skillMubiao": "INTEGER", //    //必填
+"tianshuId": "VARCHAR", //    //必填
+"tianshuName": "VARCHAR", //    //必填
+
+}

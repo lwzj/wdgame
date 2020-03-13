@@ -1,0 +1,6 @@
+{
+	"id": "INTEGER", //    //必填
+"pid": "VARCHAR", //    //选填
+"hy1": "VARCHAR", //    //选填
+
+}

@@ -1,0 +1,10 @@
+{
+	"id": "INTEGER", //    //必填
+"uncontent": "VARCHAR", //    //选填
+"npcName": "VARCHAR", //    //选填
+"currentTask": "VARCHAR", //    //选填
+"showName": "VARCHAR", //    //选填
+"taskPrompt": "VARCHAR", //    //选填
+"reward": "VARCHAR", //    //选填
+
+}

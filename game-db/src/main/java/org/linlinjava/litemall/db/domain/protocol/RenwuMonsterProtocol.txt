@@ -1,0 +1,12 @@
+{
+	"id": "INTEGER", //    //必填
+"mapName": "VARCHAR", //    //选填
+"x": "INTEGER", //    //选填
+"y": "INTEGER", //    //选填
+"name": "VARCHAR", //怪物名字    //选填
+"icon": "INTEGER", //怪物外观    //选填
+"skills": "VARCHAR", //怪物技能 如果有取对应的技能如果没有按照原始的来    //选填
+"type": "INTEGER", //任务的类型,如 除暴1 低级刷道2 中级刷道3 高级刷道4 悬赏5 修行6
+杀星7    //选填
+
+}

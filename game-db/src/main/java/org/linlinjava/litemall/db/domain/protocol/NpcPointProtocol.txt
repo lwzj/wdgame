@@ -1,0 +1,12 @@
+{
+	"id": "INTEGER", //    //必填
+"mapname": "VARCHAR", //    //选填
+"doorname": "VARCHAR", //    //选填
+"x": "INTEGER", //    //选填
+"y": "INTEGER", //    //选填
+"z": "INTEGER", //    //选填
+"inx": "INTEGER", //进入图站在传送点附近x
+    //选填
+"iny": "INTEGER", //进入图站在传送点附近y    //选填
+
+}

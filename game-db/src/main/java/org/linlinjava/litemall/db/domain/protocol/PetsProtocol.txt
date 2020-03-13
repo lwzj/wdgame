@@ -1,0 +1,32 @@
+{
+	"id": "INTEGER", //    //必填
+"ownerid": "VARCHAR", //    //必填
+"petid": "VARCHAR", //    //必填
+"nickname": "VARCHAR", //    //选填
+"name": "VARCHAR", //    //必填
+"horsetype": "INTEGER", //    //必填
+"type": "INTEGER", //    //必填
+"level": "INTEGER", //    //必填
+"liliang": "INTEGER", //    //必填
+"minjie": "INTEGER", //    //必填
+"lingli": "INTEGER", //    //必填
+"tili": "INTEGER", //    //必填
+"dianhualx": "INTEGER", //    //必填
+"dianhuazd": "INTEGER", //    //必填
+"dianhuazx": "INTEGER", //    //必填
+"yuhualx": "INTEGER", //    //必填
+"yuhuazd": "INTEGER", //    //必填
+"yuhuazx": "INTEGER", //    //必填
+"cwjyzx": "INTEGER", //    //必填
+"cwjyzd": "INTEGER", //    //必填
+"feisheng": "INTEGER", //    //必填
+"fsudu": "INTEGER", //    //选填
+"qhcwWg": "INTEGER", //    //必填
+"qhcwFg": "INTEGER", //    //必填
+"cwXiangxing": "INTEGER", //    //必填
+"cwWuxue": "INTEGER", //    //选填
+"cwIcon": "VARCHAR", //    //必填
+"cwXinfa": "INTEGER", //    //选填
+"cwQinmi": "INTEGER", //    //选填
+
+}
